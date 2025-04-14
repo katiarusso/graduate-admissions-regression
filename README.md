@@ -14,8 +14,6 @@ We analyzed a dataset of 500 graduate school applications and developed a regres
 
 The final report was written in LaTeX, and all analyses were carried out in R.
 
-## Repository Structure
-
 ## Dataset
 
 We used the [Graduate Admissions 2 dataset](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions) available on Kaggle under a CC0 public license.
